@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">level2-task2</string>
+    <string name="title">Swipe Game</string>
+    <string name="instructions">Swipe right for true, swipe left for false.</string>
+    <string name="incorrect">Your answer was incorrect</string>
+    <string name="correct">Your answer was correct</string>
+</resources>
